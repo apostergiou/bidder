@@ -22,7 +22,7 @@ bids from other bidders in a real-time auction at the exchange. The highest bid
 Execute:
 
 ```shell
-$ bundle
+$ ./bin/setup
 ```
 
 ## Testing
@@ -30,9 +30,13 @@ $ bundle
 Execute:
 
 ```shell
-$ rspec
+$ ./bin/spec
 ```
 
 ## Usage
 
-TODO
+Execute:
+
+```shell
+$ ./bin/bidder
+```
