@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'sinatra'
+gem 'thin'
+gem 'webmock'
+gem 'rack-test'
+gem 'thor'
